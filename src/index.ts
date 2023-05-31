@@ -9,7 +9,7 @@ class Init {
   private _init() {
     new CrawlerPalmeirasController().init();
     new CrawlerCorinthiansController().init();
-    console.log('Inicializado com sucesso!');
+    console.log('Inicializado com sucesso!!');
   }
 }
 
